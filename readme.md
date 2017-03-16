@@ -1,4 +1,4 @@
-# Exercice en group
+#e Exercice en group
 
 ## Co-working
 
@@ -11,10 +11,10 @@ Renseignez-vous avant comment travailler sur github a
 
 une fois cloner, amusez-vous à:
 
-  * modifier les fichiers
+  * PRENDRE DU SOLEIL 
   * créer des branches
   * push
-  * pull
+   pull
   * merge
 
 > pour vous aider à demarrer, il y dejà des fichiers et des branches existantes.
