@@ -19,4 +19,4 @@ une fois cloner, amusez-vous à:
 
 > pour vous aider à demarrer, il y dejà des fichiers et des branches existantes.
   Libres à vous, de les modifier/ supprimer à votre guise.
-  
+CECI EST LE README HARDCOOOOOOOOOOOOOOOOOOOOOORE!!!!!!!!!  
